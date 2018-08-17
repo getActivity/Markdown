@@ -1,111 +1,74 @@
-# 一级标题
-## 二级标题
-### 三级标题
-#### 四级标题
-##### 五级标题
-###### 六级标题
+# M 笔记（Markdown手机版）
 
-> 一级引用
-> > 二级引用
-> > > 三级引用
+> M 笔记是一款功能强大的MarkDown编辑器，通过指定的算法，将文本内容转成网页代码，通过解析生成的HTML文件进行预览，也可供您在没有Markdown编辑器的设备上进行浏览。
 
-* 一级列表
-    * 二级列表
-        * 三级列表
+> Markdown 是一种可以使用普通文本编辑器编写的标记语言，语法简洁明了、学习容易，而且功能比纯文本更强。通过简单的标记语法，它可以使普通文本内容具有一定图文混排格式的排版。因此有很多人用它写博客，写笔记。世界上流行的几大博客平台都能很好的支持Markdown。也越来越多的论坛，社区开始使用 Markdown 代替传统的文本编辑方式。
 
-1. 有序列表
-    1. 有序子列表
-    * 有序子列表
+> 希望图文混排，又不希望太繁琐的操作。
 
-* 有序列表
-    * 无序子列表
-    * 无序子列表
+> 希望写作时专注于内容，不希望大量的格式编辑打断思路。
 
-- [x] 复选列表
-    - [x] 已办事例
-    - [ ] 待办事例
+> 已经了解 Markdown，但是还没有找到一款衬手的编辑器，为什么不试用下呢？
 
-```
-System.out.println("Markdown");
-```
+> 软件特色：
 
-`重点文字`
+* 全屏编辑，全屏预览
 
-~~删除线~~
+* 多种预览样式选择
 
-__下划线__
+* 支持外接键盘快捷键
 
-***粗斜体***
+* Material Design界面风格
 
-**粗体**
+* 支持从其他文件管理器打开
 
-*斜体*
+* 支持编辑笔记时进行撤销重做
 
-[百度一下](https://www.baidu.com)
+* 支持跳转链接，笔记之间的跳转
 
-![百度Logo](https://www.baidu.com/img/bd_logo.png)
+* 支持进行长短截图和第三方分享
 
-这是个简单的表格
+* 支持多种格式解析(md、txt、html、htm)
 
-First Header | Second Header | Third Header
------------- | ------------- | ------------
-Content Cell | Content Cell | Content Cell
-Content Cell | Content Cell | Content Cell
+* 自编式MarkDown语法，强大的兼容性优势
 
-出于美观的考虑，可以把两端都包围起来
+* 以文件作为笔记没有局限性，全新的设计理念
 
-| First Header | Second Header | Third Header |
-| ------------ | ------------- | ------------ |
-| Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell |
+#### 发布渠道
 
-通过在标题分割行添加冒号`:`，你可以定义表格单元的对其格式：向左靠齐，居中和向右靠齐
+* 酷安
 
-| First Header | Second Header | Third Header |
-| :----------- | :-----------: | -----------: |
-| Left | Center | Right |
-| Left | Center | Right |
+* 应用宝
 
-这是一个示例的表格使用案例
+* 谷歌应用市场
 
- 名字  |  年龄  |  描述
- :---- | :----: |  ----:
- 张三  |  十岁  | **加粗的文字**
-王老五 | 二十岁 | [支持添加链接](https://github.com/getActivity/Markdown)
+* 小米应用市场
 
-支持外接键盘快捷键
+* 百度手机助手
 
- 快捷键  |  作用
- :----: | :----:
-   F1   |  帮助
-   F6   |  预览
- Insert |  插入
- Ctrl + Z |  撤销
- Ctrl + Y |  重做
- Ctrl + S |  保存
- Ctrl + H |  替换
+[最新安装包下载地址](https://raw.githubusercontent.com/getActivity/Markdown/master/app.apk)
 
+#### 截图欣赏
 
-[点击这里回到一级标题](#一级标题)
+[点此查看MarkDown语法示例](Markdown.md)
 
-[点击这里回到六级标题][#六级标题]
+![](1.png)
 
--------
+![](2.png)
 
-<font face="微软雅黑" color="red" size="5">自定义字体样式、颜色、大小</font>
+![](3.png)
 
--------
+![](4.png)
 
-<font color="#0000ff">也可以单独指定字体颜色</font>
+![](5.png)
 
--------
+![](6.png)
 
-<p align="left">居左文本</p>
-<p align="center">居中文本</p>
-<p align="right">居右文本</p>
+![](7.png)
 
--------
+![](8.png)
 
-使用html标签<br/>换行
+![](9.png)
 
--------
+![](10.png)
+
